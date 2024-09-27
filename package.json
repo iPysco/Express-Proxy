@@ -1,0 +1,16 @@
+{
+  "name": "express-proxy",
+  "version": "1.0.0",
+  "description": "Este repositório contém um exemplo prático de uma aplicação React configurada para consumir uma API criada com Express usando um proxy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
